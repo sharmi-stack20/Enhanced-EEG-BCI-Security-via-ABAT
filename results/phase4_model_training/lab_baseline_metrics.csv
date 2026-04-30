@@ -1,0 +1,2 @@
+accuracy,balanced_accuracy,macro_f1,dataset,model,samples
+0.32465543644716693,0.228404624935923,0.17144165748482293,lab,baseline_random_forest,1663

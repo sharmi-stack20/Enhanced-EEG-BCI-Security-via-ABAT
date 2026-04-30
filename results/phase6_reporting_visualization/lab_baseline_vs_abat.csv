@@ -1,0 +1,3 @@
+accuracy,balanced_accuracy,macro_f1,dataset,model,samples,epsilon
+0.3246554364471669,0.228404624935923,0.1714416574848229,lab,baseline_random_forest,1663,
+0.3292496171516079,0.2313493193597995,0.1757225433526011,lab,abat_augmented_random_forest,1663,0.15

@@ -1,0 +1,9 @@
+dataset,phase,count
+public,Phase 1,18.0
+lab,Phase 1,23.0
+public,Phase 2,160.0
+lab,Phase 2,23.0
+public,Phase 3,160.0
+lab,Phase 3,23.0
+lab,Phase 4,0.3246554364471669
+lab,Phase 5,0.3292496171516079
